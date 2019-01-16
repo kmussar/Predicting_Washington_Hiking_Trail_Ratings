@@ -30,24 +30,24 @@ https://irma.nps.gov/Stats/SSRSReports/Park%20Specific%20Reports/Traffic%20Count
 ### Features: 
 * Number of trip reports written
 * Date 
-        - Day of week
-        - Month/time of year
-        - Year
-        - Holidays/events
+    - Day of week
+    - Month/time of year
+    - Year
+    - Holidays/events
 * Trail conditions
-        - Snow
-        - others
+    - Snow
+    - others
 * Weather (local)
-        - Temperature
-        - Precip.
+    - Temperature
+    - Precip.
 * Weather (Seattle)
-        - Temperature
-        - Precip.
+    - Temperature
+    - Precip.
 
 
 ### Things to consider: 
 * Trail reports are only an approximation of foot traffic to trails. There may be differences in demographics of hikers on different days of the week or in different seasons that cause some demographics to over-represent their visits with trail reports, or vice-versa. This can be partially confirmed with NPS's data on trail users/month. 
 * I'm not sure which would be a more informative score: 
-        - Trail's current crowdedness vs average/max crowdedness  
-        - Trail's current crowdedness vs crowdedness of other trails in the area
+    - Trail's current crowdedness vs average/max crowdedness  
+    - Trail's current crowdedness vs crowdedness of other trails in the area
 * Hiking group posts and news articles promoting certain hikes will cause spikes in the number of people visiting certain trails. Incorporating this information into my model seems too sophisticated at the moment. (And I don't think Facebook likes scraping). 
