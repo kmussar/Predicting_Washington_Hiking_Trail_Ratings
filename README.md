@@ -12,7 +12,9 @@ Hiking is one of the most popular summer activities for Seattleites. Understanda
         Use prev. trip report data to predict future # of trip reports. 
 3. Get weather data for both the trail area as well as Seattle weather. Add these features to dataset. 
 4. Improve linear regression model
-**Potential additional steps:**
+
+**Potential additional step:**
+
 5. Create score for traffic of selected trail on selected day in comparison to a)trail history and/or b) other trails in the area. 
 
 ### Data Sources:
